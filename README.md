@@ -1,6 +1,8 @@
 hi i'm hiro mizuki
 
-i like to eat bananas
+i'm a fnf mod programmer
+
+psych engine little contributor
 
 i'm a coder from Arwen Team, as u can see at my repos, there's Friday Night Fiufiu repo
 
